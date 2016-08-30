@@ -1,3 +1,7 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
 
 Ans: A .git folder is added to the directory. You need this file in order to keep track of all the editing history.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Ans: You can only commit the files in the staging area. It gives you a chance to commit only a subset of (logically connected) files.
