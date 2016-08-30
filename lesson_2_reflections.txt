@@ -1,0 +1,3 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+Ans: A .git folder is added to the directory. You need this file in order to keep track of all the editing history.
