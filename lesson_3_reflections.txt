@@ -5,3 +5,9 @@ Ans: To share with the public or other co-workers.
 Q2: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Ans: Other people may also change the remote repository, which may include the changes that you don't want in your local branch or even lead to uncompliable code if pulled automatically.
+
+Q3: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Ans: forks - create duplicated repos on github
+     clone - create duplicated repos on local or copying from github to local
+     branch- creating new sets of commits in the same repository
