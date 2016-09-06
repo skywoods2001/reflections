@@ -21,3 +21,7 @@ Ans: It illustrate the relations between differenet branches and shows unreachab
 Q6: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Ans: The features in the two branches are combined. Commits on the two old branches are considered as the parents of the merged commit.
+
+Q7: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Ans: Git automatic merging may not meet the actual intention of the designer and may even lead to uncompliable codes. Merging it manually may be time consuming but can be more correct.
