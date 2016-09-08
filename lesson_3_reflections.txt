@@ -11,3 +11,7 @@ Q3: Describe the differences between forks, clones, and branches. When would you
 Ans: forks - create duplicated repos on github
      clone - create duplicated repos on local or copying from github to local
      branch- creating new sets of commits in the same repository
+
+ Q4: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+ Ans: Your can potentially decrease the possibility of having merge conflict.
