@@ -8,6 +8,7 @@ Ans: Other people may also change the remote repository, which may include the c
 
 Q3: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
+
 Ans: forks - create duplicated repos on github
      clone - create duplicated repos on local or copying from github to local
      branch- creating new sets of commits in the same repository
@@ -15,3 +16,7 @@ Ans: forks - create duplicated repos on github
  Q4: What is the benefit of having a copy of the last known state of the remote stored locally?
 
  Ans: Your can potentially decrease the possibility of having merge conflict.
+
+ Q5: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Ans: Meet in person to discuss the I/O for each module and work on different modules.
